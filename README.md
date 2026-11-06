@@ -22,3 +22,4 @@ Improve delivery performance, especially in the North region, to reduce cancella
 ## Project File
 Amazon Sales Dashboard Project.xlsx
 
+## ![Dashboard](dashboard.png)
